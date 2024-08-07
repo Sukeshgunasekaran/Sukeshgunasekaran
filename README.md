@@ -19,8 +19,7 @@
          <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
          <img src="https://img.shields.io/badge/-Java-E34F26?style=for-the-badge&logo=java&logoColor=white" />
          <img src="https://img.shields.io/badge/-Deep%20Learning-007ACC?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning Badge"/>
-        <img src="https://img.shields.io/badge/-SQL-E34F26?style=for-the-badge&logo=sql&logoColor=white
-        " alt="Sql"/>
+        /
         <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/>
         <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
     <!-- More badges -->
