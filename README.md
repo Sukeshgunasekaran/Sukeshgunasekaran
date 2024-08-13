@@ -1,5 +1,5 @@
 <div align="center">
-    <h2>✨ Welcome to Sukesh's AI Odyssey ✨</h2>
+    <h2>✨ Welcome to Sukesh's Github ✨</h2>
     <h3>Embark on a Stellar Journey Through the Cosmos of Code</h3>
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW8zaDB4d3Q5cDlzeHVkamd2N3BmYTdxM3FwcDZmZ2QwMXowNjZ5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2xnO6tTIYYFE2j3IqQ/giphy.webp" width="auto"/>
 </div>
@@ -68,6 +68,6 @@
         <img src="https://img.shields.io/badge/-LinkedIn-0072B1?style=for-the-badge&logo=LinkedIn&logoColor=white" />
     </a>
      <a href="https://leetcode.com/u/gsukesh/">
-        <img src="https://img.shields.io/badge/LeetCode-HarieshKai-ffa116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode profile"/>
+        <img src="https://img.shields.io/badge/LeetCode-Sukesh-ffa116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode profile"/>
      </a>
 </div>
